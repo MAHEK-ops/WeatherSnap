@@ -4,18 +4,10 @@ A production-quality Android app that lets users search live weather for any cit
 
 ---
 
-## Screenshots
-
-| Weather Screen | Create Report | Custom Camera | Saved Reports |
-|---|---|---|---|
-| _(add screenshot)_ | _(add screenshot)_ | _(add screenshot)_ | _(add screenshot)_ |
-
----
-
 ## Features
 
 - **City search with autocomplete** - suggestions appear after 2 characters, cached in-memory to avoid redundant API calls
-- 🌡️ **Live weather data** - temperature, condition, humidity, wind speed, pressure via Open-Meteo (no API key needed)
+- **Live weather data** - temperature, condition, humidity, wind speed, pressure via Open-Meteo (no API key needed)
 - **Custom CameraX camera** - fully built from scratch, no device camera intent used
 - **Image compression** - original and compressed file sizes displayed on every report
 - **Field notes** - free-text notes attached to each report
